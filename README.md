@@ -10,7 +10,7 @@ Submission titled : "[Only answers permitted](https://www.reddit.com/r/dankmemes
 This post got lots of answers with coordinates (tiles) mentioned...
  ![comments](https://user-images.githubusercontent.com/22829157/209996296-d6b31abe-9dba-44f9-81de-4b78c33bed2b.png)
 
-So I made a script to find out who the most loved pokemon was.
+So I made a [script](https://github.com/Dereavy/DankMemesFavouritePokemon/blob/main/getPokemon.py) to find out who the most loved pokemon was.
 
 ## The script:
 Grabs the comments and extracts the tile numbers to find the most common tiles.
