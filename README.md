@@ -2,9 +2,8 @@
 I came across a reddit post and decided to see which pokemon was the DankMemes communities favourite pokemon...
 
 ## The reddit post:
-Submission titled : "Fuck Zodiac Signs, Which Pokemon You Fuck First?"
+Submission titled : "[Only answers permitted](https://www.reddit.com/r/dankmemes/comments/zwu64n/only_answers_permitted/)" posted on the [Dankmemes subreddit](https://www.reddit.com/r/dankmemes)
 ![9i710q4m0j8a1](https://user-images.githubusercontent.com/22829157/209990519-0e28974d-0af7-434e-9e3b-a7128a77317a.png)
-url: https://www.reddit.com/r/dankmemes/comments/zwu64n/only_answers_permitted/
 
 ## The script:
 Grabs the comments and extracts the tile numbers to find the most common tiles.
