@@ -17,11 +17,14 @@ Sorted from most common to least (excluding those with a frequency less than 5)
 # Top 3 Pokemon :
 ## 1. Gardevoir (J-3) with 135 occurances 
 ![Gardevoir](https://assets.pokemon.com/assets/cms2/img/pokedex/full/282.png)
+It has the power to predict the future. Its power peaks when it is protecting its Trainer. 
 
 ## 2. The white square in the corner (U-31) with 84 occurances
 
 ## 3. Corsola (E-8) with 57 occurances
 ![Corsola](https://assets.pokemon.com/assets/cms2/img/pokedex/full/222.png)
+It will regrow any branches that break off its head. People keep particularly beautiful Corsola branches as charms to promote safe childbirth. 
 
 ## 4. Vaporeon (E-10) with 55 occurances
 ![Vaporeon](https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png)
+When Vaporeon’s fins begin to vibrate, it is a sign that rain will come within a few hours. 
