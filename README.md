@@ -3,7 +3,14 @@ I came across a reddit post and decided to see which pokemon was the DankMemes c
 
 ## The reddit post:
 Submission titled : "[Only answers permitted](https://www.reddit.com/r/dankmemes/comments/zwu64n/only_answers_permitted/)" posted on the [Dankmemes subreddit](https://www.reddit.com/r/dankmemes)
+
 ![9i710q4m0j8a1](https://user-images.githubusercontent.com/22829157/209990519-0e28974d-0af7-434e-9e3b-a7128a77317a.png)
+
+
+This post got lots of answers with coordinates (tiles) mentioned...
+ ![comments](https://user-images.githubusercontent.com/22829157/209996296-d6b31abe-9dba-44f9-81de-4b78c33bed2b.png)
+
+So I made a script to find out who the most loved pokemon was.
 
 ## The script:
 Grabs the comments and extracts the tile numbers to find the most common tiles.
