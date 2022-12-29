@@ -36,3 +36,8 @@ Sorted from most common to least (excluding those with a frequency less than 5)
 ![Lopunny](https://assets.pokemon.com/assets/cms2/img/pokedex/full/428.png)
 
 **Description:** Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks. 
+
+## 6. Lickitung (D-15) with 34 occurances
+![Lickitung](https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png)
+
+**Description:** If this Pokémon’s sticky saliva gets on you and you don’t clean it off, an intense itch will set in. The itch won’t go away, either. 
